@@ -1,5 +1,4 @@
 # Ex.10 Responsive Web Design using Bootstrap
-## Date:
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
