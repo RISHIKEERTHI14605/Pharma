@@ -366,6 +366,10 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+![p1](https://github.com/RISHIKEERTHI14605/Pharma/assets/147148903/10006879-eaa4-43c7-a905-adfc0ecf3681)
+![p2](https://github.com/RISHIKEERTHI14605/Pharma/assets/147148903/ebd22073-84aa-4c01-9c25-c9767bb022ea)
+![p3](https://github.com/RISHIKEERTHI14605/Pharma/assets/147148903/f60c428f-43fb-450f-930f-8fad80a9360f)
+![p4](https://github.com/RISHIKEERTHI14605/Pharma/assets/147148903/8e68d355-4264-4fa8-b2f2-81572761352c)
 
 
 ## RESULT:
